@@ -1821,6 +1821,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Making a good trouble report">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#use-the-snapshot-script" class="md-nav__link">
+    <span class="md-ellipsis">
+      Use the snapshot script
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -3139,6 +3154,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Making a good trouble report">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#use-the-snapshot-script" class="md-nav__link">
+    <span class="md-ellipsis">
+      Use the snapshot script
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
     </ul>
@@ -3244,6 +3274,15 @@ verbosity (<code>-v</code>) of various controllers.</p>
 </ul>
 </li>
 </ul>
+<h3 id="use-the-snapshot-script">Use the snapshot script<a class="headerlink" href="#use-the-snapshot-script" title="Permanent link">#</a></h3>
+<p>There is a script that is intended to capture a lot of relevant state;
+using it can help make a good trouble report.</p>
+<p>You can use a command like the following to invoke the script.</p>
+<div class="language-shell highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>bash<span class="w"> </span>&lt;<span class="o">(</span>curl<span class="w"> </span>-s<span class="w"> </span>https://raw.githubusercontent.com/kubestellar/kubestellar/refs/heads/main/scripts/kubestellar-snapshot.sh<span class="o">)</span><span class="w"> </span>-V<span class="w"> </span>-Y<span class="w"> </span>-L
+</code></pre></div>
+<p>Report the log of running the script.</p>
+<p>If the script is successful then it will create an archive file and
+tell you about it; include that file in your trouble report.</p>
 
 
 

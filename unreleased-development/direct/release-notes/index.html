@@ -814,6 +814,30 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#0260-and-its-rcs" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.26.0 and its RCs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="0.26.0 and its RCs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#remaining-limitations-in-0260" class="md-nav__link">
+    <span class="md-ellipsis">
+      Remaining limitations in 0.26.0
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#0260-alpha5" class="md-nav__link">
     <span class="md-ellipsis">
       0.26.0-alpha.5
@@ -3356,6 +3380,30 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#0260-and-its-rcs" class="md-nav__link">
+    <span class="md-ellipsis">
+      0.26.0 and its RCs
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="0.26.0 and its RCs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#remaining-limitations-in-0260" class="md-nav__link">
+    <span class="md-ellipsis">
+      Remaining limitations in 0.26.0
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#0260-alpha5" class="md-nav__link">
     <span class="md-ellipsis">
       0.26.0-alpha.5
@@ -3677,6 +3725,24 @@
 
 <h1 id="release-notes">Release notes<a class="headerlink" href="#release-notes" title="Permanent link">#</a></h1>
 <p>The following sections list the known issues for each release. The issue list is not differential (i.e., compared to previous releases) but a full list representing the overall state of the specific release. </p>
+<h2 id="0260-and-its-rcs">0.26.0 and its RCs<a class="headerlink" href="#0260-and-its-rcs" title="Permanent link">#</a></h2>
+<p>The major changes since 0.25.1 are as follows.</p>
+<ul>
+<li>Increase the Kubernetes release that kubestellar depends on, from 1.28 to 1.29.</li>
+<li>The demo environment creation script is much more reliable, mainly due to no longer attempting concurrent operations. Still, external network/server hiccups can cause the script to fail.</li>
+<li>This release removes the thrashing of workload objects in the WEC in the case where the transport controller's <code>max-num-wrapped</code> is 1.</li>
+<li>This release adds reporting, in <code>BindingPolicy</code> and <code>Binding</code> status, of whether any of the referenced <code>StatusCollector</code> objects do not exist.</li>
+<li>This release changes the schema for a <code>BindingPolicy</code> so that the request for sigleton status return is made/not-made independently in each <code>DownsyncPolicyClause</code> rather than once on the whole <code>BindingPolicySpec</code>. The schema for <code>Binding</code> objects is changed correspondingly. <strong>This is a breaking change in the YAML schema for Binding[Policy] objects that request singleton status return.</strong></li>
+</ul>
+<h3 id="remaining-limitations-in-0260">Remaining limitations in 0.26.0<a class="headerlink" href="#remaining-limitations-in-0260" title="Permanent link">#</a></h3>
+<ul>
+<li>Although the create-only feature can be used with Job objects to avoid trouble with <code>.spec.selector</code>, requesting singleton reported state return will still lead to a controller fight over <code>.status.replicas</code> while the Job is in progress.</li>
+<li>Removing of WorkStatus objects (in the transport namespace) is not supported and may not result in recreation of that object</li>
+<li>Objects on two different WDSes shouldn't have the exact same identifier (same group, version, kind, name and namespace). Such a conflict is currently not identified.</li>
+<li>Creation, deletion, and modification of <code>CustomTransform</code> objects does not cause corresponding updates to the workload objects in the WECs; the current state of the <code>CustomTransform</code> objects is simply read at any moment when the objects in the WECs are being updated for other reasons.</li>
+<li>It is not known what actually happens when two different <code>Binding</code> objects list the same workload object and either or both say "create only".</li>
+<li>If (a) the workload object count or volume vs the configured limits on content of a <code>ManifestWork</code> causes multiple <code>ManifestWork</code> to be created for one <code>Binding</code> (<code>BindingPolicy</code>) AND (b) the limit on number of workload objects in one <code>ManifestWork</code> is greater then 1, then there may be transients where workload objects are deleted and re-created in a WEC --- which, in addition to possibly being troubling on its own, will certainly thwart the "create-only" functionality. The default limit on the number of workload objects in one <code>ManifestWork</code> is 1, so this issue will only arise when you use a non-default value. In this case you will avoid this issue if you set that limit to be at least the highest number of workload objects that will appear in a <code>Binding</code> (do check your <code>Binding</code> objects, lest you be surprised) AND your workload is not so large that multiple <code>ManifestWork</code> are created due to the limit on their size.</li>
+</ul>
 <h2 id="0260-alpha5">0.26.0-alpha.5<a class="headerlink" href="#0260-alpha5" title="Permanent link">#</a></h2>
 <p>This release is intended to have the same functionality as 0.26.0-alpha.3 and 0.26.0-alpha.4 but test a change to the GitHub Actions workflow that makes a release; the change adds SBOM generation (<a href="https://github.com/kubestellar/kubestellar/pull/2718">PR 2718</a>).</p>
 <h2 id="0260-alpha4">0.26.0-alpha.4<a class="headerlink" href="#0260-alpha4" title="Permanent link">#</a></h2>
