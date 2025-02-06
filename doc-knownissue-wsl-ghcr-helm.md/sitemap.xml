@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/readme/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/readme/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/_index/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/_index/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/kubecon/eu2025/contribfest/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/kubecon/eu2025/contribfest/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/argocd/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/argocd/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/fluxcd/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/fluxcd/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/kyverno/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/kyverno/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/mvi/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/mvi/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/openziti/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/openziti/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/Community/partners/turbonomic/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/Community/partners/turbonomic/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/common-subs/coming-soon/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/common-subs/coming-soon/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/common-subs/placeholder/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/common-subs/placeholder/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/CONTRIBUTING/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/CONTRIBUTING/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/LICENSE/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/LICENSE/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/coc/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/coc/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/governance/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/governance/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/onboarding/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/onboarding/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/operations/code-management/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/operations/code-management/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/operations/document-management/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/operations/document-management/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/operations/testing-doc-prs/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/operations/testing-doc-prs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/security/security/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/security/security/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/contribution-guidelines/security/security_contacts/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/contribution-guidelines/security/security_contacts/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/acquire-hosting-cluster/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/acquire-hosting-cluster/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/architecture/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/architecture/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/argo-to-wds1/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/argo-to-wds1/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/binding/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/binding/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/combined-status/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/combined-status/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/contribute/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/contribute/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/control/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/control/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/core-chart/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/core-chart/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/example-scenarios/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/example-scenarios/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/example-wecs/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/example-wecs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/galaxy-intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/galaxy-intro/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/get-started/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/get-started/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/init-hosting-cluster/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/init-hosting-cluster/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/its/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/its/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/known-issues/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/known-issues/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/knownissue-collector-miss/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/knownissue-collector-miss/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/knownissue-kflex-extension/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/knownissue-kflex-extension/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/knownissue-kind-config/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/knownissue-kind-config/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/knownissue-wsl-ghcr-helm/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/knownissue-wsl-ghcr-helm/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/kubeflex-intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/kubeflex-intro/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/packaging/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/packaging/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/pr-signoff/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/pr-signoff/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/pre-reqs/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/pre-reqs/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/release-notes/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/release-notes/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/release-testing/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/release-testing/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/release/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/release/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/roadmap/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/roadmap/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/setup-limitations/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/setup-limitations/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/setup-overview/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/setup-overview/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/start-from-ocm/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/start-from-ocm/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/teardown/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/teardown/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/testing/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/testing/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/transforming/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/transforming/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/troubleshooting/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/troubleshooting/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/usage-limitations/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/usage-limitations/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/user-guide-intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/user-guide-intro/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/wds/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/wds/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/wec-registration/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/wec-registration/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/wec/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/wec/"/>
+         
+    </url>
+    <url>
+         <loc>https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/direct/images/image-files-readme/</loc>
+         <lastmod>2025-02-06</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://docs.kubestellar.io/doc-knownissue-wsl-ghcr-helm.md/en/direct/images/image-files-readme/"/>
+         
+    </url>
+</urlset>
